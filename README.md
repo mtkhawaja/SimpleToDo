@@ -4,7 +4,7 @@
 
 Submitted by: **Muneeb Khawaja**
 
-Time spent: **1** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] N/A
 
 ## Video Walkthrough
 
@@ -32,11 +32,12 @@ GIF created with [ShareX](https://getsharex.com/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Encountered issues with GIT. 
+Had to switch to GitHub provided no-reply email to fix error GH007. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2018] [Muneeb T. Khawaja]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
