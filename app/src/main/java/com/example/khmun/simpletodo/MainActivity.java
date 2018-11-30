@@ -83,6 +83,7 @@ public class MainActivity extends AppCompatActivity {
         } catch (IOException e) {
             Log.i("MainActivity", "Error Reading File");
         }
+
     } // writeItem Method
 
 } // Main Class
